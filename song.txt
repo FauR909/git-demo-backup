@@ -5,3 +5,7 @@ fourth line of the song
 fifth line of the song
 sixth line
 seventh line
+
+third couplete start
+third couplete mid
+third couplete end
