@@ -9,3 +9,6 @@ seventh line
 second couplet start
 second couplet mid
 second couplet end
+
+some text
+some extra text
