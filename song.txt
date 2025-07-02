@@ -5,4 +5,3 @@ fourth line of the song
 fifth line of the song
 sixth line
 seventh line
-------------------------------------------------
